@@ -1,2 +1,4 @@
 # Arizona_Accidents_Analysis
-Analysis of all traffic accidents that occurred in the state of Arizona from 2012-2016.
+This report contains various analysis pulling data from kaggle.com. The data analyzed contains information on 3904 fatal traffic accidents in the State of Arizona from 2012 - 2016. The dataset has been parsed to include only the essential data points, such as location, time, weather, contributing factors and demographic information of the motorists involved in the accident. Using this data, researchers can gain valuable insights into automobile safety trends in the Grand Canyon state.
+
+The dataset consists of three files - accidents (79 columns with 3,904 accidents), vehicles (131 columns with 5,889 vehicles) and persons (96 columns with 10,611 people). It includes translated fields for easy interpretation alongside numerical codes for greater detail about each variable. For example there is WEATHER as a numeric code and WEATHER_LIT as its literal translation. Additionally relevant indicators from auxiliary files are included such as whether a police pursuit was involved or whether a pedestrian was involved or killed.
